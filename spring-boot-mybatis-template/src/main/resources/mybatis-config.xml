@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <typeAliases>
+<!--        <package name="study.bootmybatistemplate"/>-->
+<!--        <typeAlias alias="memberDto" type="study.bootmybatistemplate.member.MemberDto"/>-->
+<!--        <typeAlias alias="member" type="study.bootmybatistemplate.member.Member"/>-->
+    </typeAliases>
+</configuration>

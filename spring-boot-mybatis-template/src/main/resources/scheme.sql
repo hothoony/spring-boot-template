@@ -1,0 +1,5 @@
+-- create table member (
+--     id number,
+--     name varchar(100),
+--     age number
+-- );
